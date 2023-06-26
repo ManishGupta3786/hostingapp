@@ -1,0 +1,164 @@
+.Section1-Wrapper{
+    position: absolute;
+    width: 1280px;
+    height: 750px;
+    right: 0px;
+    top: 0px;
+    left: 0px;
+    background: #FFFFFF;
+}
+
+#brand-logo{
+    position: absolute;
+    width: 150px;
+    height: 80px;
+    left: 90px;
+    margin-top: 17px;
+    float: left;
+}
+
+#tabs{
+    position: absolute;
+    list-style: none;
+    display: inline-flex;
+    left:260px;
+    top: 38px;
+    font-family:'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+}
+
+#login-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 40px;
+    gap: 10px;
+    position: absolute;
+    width: 110px;
+    height: 48px;
+    left: 885px;
+    top: 25px;
+    font-family: 'poppins';
+    border:0;
+    font-size: 16px;
+    background: white;    
+    color: #51226F;
+    border-radius: 8px;
+    font-weight: 400;
+}
+
+#signup-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 40px;
+    gap: 10px;
+    color: white;
+    position: absolute;
+    width: 136px;
+    height: 48px;
+    left: 1000px;
+    top: 25px;
+    background: #51226F;    
+    border-radius: 8px;
+    font-family: 'poppins';
+    font-size: 16px;
+    font-weight: 100;
+}
+
+li{
+    margin-left: 15px;
+}
+
+select{
+    width: 20px;
+    margin-left: 5px;
+    border: 0;
+}
+
+.Section1-Left-Pannel #para1{
+    position: absolute;
+    width: 636px;
+    height: 186px;
+    left: 90px;
+    top: 115px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 130%;
+    text-transform: capitalize;
+    color: #131313;
+    text-align: left;
+}
+
+.Section1-Left-Pannel #para2{
+    position: absolute;
+    width: 636px;
+    height: 320px;
+    left: 90px;
+    top: 331px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: left;
+    color: rgba(19, 19, 19, 0.7);
+}
+
+.Section1-Right-Pannel{
+    position: absolute;
+    width: 393px;
+    height: 353.39px;
+    left: 740px;
+    top: 240px;
+}
+
+#section1-btns #btn1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 35px;
+    gap: 10px;
+    position: absolute;
+    width: 213px;
+    height: 48px;
+    left: 89px;
+    top: 640px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 15px;
+    line-height: 150%;
+    background: #51226F;
+    color:white;
+    border-radius: 8px;
+    border: 0;
+}
+
+#section1-btns #btn2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 35px;
+    gap: 10px;
+    position: absolute;
+    width: 213px;
+    height: 48px;
+    left: 330px;
+    top: 640px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 15px;
+    line-height: 150%;
+    color: #51226F;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid;
+}

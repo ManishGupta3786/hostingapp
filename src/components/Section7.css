@@ -1,0 +1,165 @@
+.Section7-Wrapper {
+    position: absolute;
+    width: 1280px;
+    height: 426px;
+    left: 0px;
+    top: 3728px;
+    background: #FAFAFB;
+}
+
+.Section7-Left-Panel {
+    position: absolute;
+    width: 453px;
+    height: 118px;
+    left: 90px;
+    top: 48px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 118%;
+    text-transform: capitalize;
+    color: #131313;
+    text-align: left;
+}
+
+.Section7-Left-Panel span {
+    color: #51226f;
+}
+
+.Section7-Right-Panel #group1 {
+    position: absolute;
+    width: 567px;
+    height: 222px;
+    left: 0px;
+    top: 0px;
+}
+
+#group1 #para1 {
+    position: absolute;
+    width: 527px;
+    height: 52px;
+    left: 619px;
+    top: 48px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #131313;
+    text-align: left;
+}
+
+#group1 #xmark {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1162px;
+    top: 48px;
+}
+
+#group1 #para2 {
+    position: absolute;
+    width: 567px;
+    height: 154px;
+    left: 619px;
+    top: 116px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    color: rgba(19, 19, 19, 0.5);
+    text-align: left;
+}
+
+#group1 #para2 li {
+    list-style: none;
+    margin-left: 0px;
+}
+
+.Section7-Right-Panel #group2 {
+    position: absolute;
+    width: 567px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    gap: 16px;
+}
+
+#group2 #para1 {
+    position: absolute;
+    width: 527px;
+    left: 619px;
+    top: 286px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #131313;
+}
+
+#group2 #plusmark {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 1162px;
+    top: 285px;
+}
+
+.Section7-Right-Panel #group3 {
+    position: absolute;
+    width: 567px;
+    height: 24px;
+    left: 619px;
+    top: 330px;
+
+}
+
+#group3 #para1 {
+    position: absolute;
+    width: 527px;
+    left: 0px;
+    top: -9.09%;
+    bottom: -9.09%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #131313;
+}
+
+#group3 #plusmark {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 543px;
+    top: 0px;
+    gap: 10px;
+}
+
+.Section7-Right-Panel button {
+    position: absolute;
+    width: 100px;
+    height: 26px;
+    left: 619px;
+    top: 374px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #5C6DFF;
+    background: #FAFAFB;
+    border: 0;
+}

@@ -1,0 +1,63 @@
+.Section4-Wrapper{
+    position: absolute;
+    width: 1280px;
+    height: 542px;
+    left: 0px;
+    top: 1480px;
+    background: #FFFFFF;
+}
+
+.Section4-Left-Panel{
+    position: absolute;
+    width: 406px;
+    height: 368px;
+    left: 90px;
+    top: calc(50% - 368px/2);
+}
+
+.Section4-Right-Panel #para1{
+    position: absolute;
+    width: 582px;
+    height: 118px;
+    left: 565px;
+    top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 118%;
+    text-transform: capitalize;
+    color: #131313;
+    text-align: left;
+}
+
+.Section4-Right-Panel #para2{
+    position: absolute;
+    width: 582px;
+    height: 144px;
+    left: 565px;
+    top: 182px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(19, 19, 19, 0.7);
+    text-align: left;
+}
+
+.Section4-Right-Panel #para3{
+    position: absolute;
+    width: 541px;
+    height: 144px;
+    left: 565px;
+    top: 358px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(19, 19, 19, 0.7);
+    text-align: left;
+
+}

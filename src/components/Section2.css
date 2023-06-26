@@ -1,0 +1,47 @@
+.Section2-Wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    position: absolute;
+    width: 1280px;
+    height: 135px;
+    top: 750px;
+}
+
+#section2-heading{
+    width: 1280px;
+    height: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-transform: capitalize;
+    color: #131313;
+    text-align:center ;
+    /* left:90px */
+}
+
+#section2-image-panel{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    width: 1280px;
+    height: 55px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 1;
+    top:70px;
+    left: 20px;
+}
+
+#section2-image-panel div{
+    width: 120px;
+}
+

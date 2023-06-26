@@ -1,0 +1,62 @@
+.Section3-Wrapper{
+    position: absolute;
+    width: 1280px;
+    height: 606px;
+    left: 0px;
+    top: 880px;
+    background: #FAFAFB;
+}
+
+.Section3-Left-Pannel #para1{
+    position: absolute;
+    width: 479px;
+    height: 118px;
+    left: 90px;
+    top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight:700;
+    font-size: 50px;
+    line-height: 118%;
+    text-transform: capitalize;
+    color: #131313;
+    text-align: left;
+}
+
+.Section3-Left-Pannel #para2{
+    position: absolute;
+    width: 653px;
+    height: 144px;
+    left: 90px;
+    top: 182px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(19, 19, 19, 0.7);
+    text-align: left;
+}
+
+.Section3-Left-Pannel #para3{
+    position: absolute;
+    width: 541px;
+    height: 216px;
+    left: 90px;
+    top: 350px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    color: rgba(19, 19, 19, 0.7);
+}
+
+.Section3-Right-Pannel{   
+    position: absolute;
+    width: 370px;
+    height: 355px;
+    left: 760px;
+    top: 125px;
+}
